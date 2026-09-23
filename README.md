@@ -49,7 +49,7 @@ To ensure rapid, unhindered construction of nationwide high-speed corridors, NAS
 ### 3.2 Federal Budget Stabilization Loop
 Net revenue is managed via a legally partitioned dual-trust framework to prevent capital stagnation:
 
-\[\mathbf{R}_{\text{net}} \longrightarrow \mathbf{T}_{\text{Federal\_Treasury}} \ (70\%) + \mathbf{T}_{\text{Space\_Exploration}} \ (30\%)\]
+$$[\mathbf{R}_{\text{net}} \longrightarrow \mathbf{T}_{\text{Federal-Treasury}} \ (70\%) + \mathbf{T}_{\text{Space-Highways}} \ (30\%)]$$
 
 1. **70% Direct Treasury Influx:** Automated quarterly transfers to the Department of the Treasury to offset national debt and balance the annual federal budget.
 2. **30% Autonomous R&D Fund:** Reinvested into non-commercial deep space research, planetary defense, and advanced material sciences, removing NASA’s scientific wing entirely from the federal balance sheet.
@@ -59,9 +59,9 @@ To fully offset the projected **\$1.90 trillion** annual U.S. federal budget def
 
 | Metric | Valuation (USD) | Macroeconomic Context & Projections |
 | :--- | :--- | :--- |
-| **Target Deficit Relief (\(\mathbf{T}_{\text{Federal\_Treasury}}\))** | **\$1.90 Trillion** | Matches 100% of the active federal budget deficit. |
-| **Required Total Net Profit (\(\mathbf{R}_{\text{net}}\))** | **\$2.71 Trillion** | Total annual net earnings required before trust split. |
-| **Autonomous Space Fund (\(\mathbf{T}_{\text{Space\_Exploration}}\))** | **\$814.29 Billion** | **32x expansion** over NASA’s historical \$25B budget baseline. |
+| **Target Deficit Relief** | **\$1.90 Trillion** | Matches 100% of the active federal budget deficit. |
+| **Required Total Net Profit** | **\$2.71 Trillion** | Total annual net earnings required before trust split. |
+| **Autonomous Space Fund** | **\$814.29 Billion** | **32x expansion** over NASA’s historical \$25B budget baseline. |
 | **Required Gross Enterprise Revenue** | **\$10.86 Trillion** | Total gross revenue required at a **25%** blended margin. |
 
 *Note: If structural inefficiencies compress the blended net profit margin to **15%**, the required Gross Enterprise Revenue scales to **\$18.09 Trillion**.*
